@@ -173,7 +173,7 @@ display: flex;
 
 
 .credit ul {
-  display: flex;
+  
   justify-content: space-between;
   text-align: center;
   list-style-type: none;
@@ -185,9 +185,12 @@ display: flex;
   padding: 0;
 }
 
-.credit div {
 
-display: list-item;
+
+
+.creditlist {
+
+
 font-family: 'Courier New', Courier, monospace;
 font-size: 18px;
 

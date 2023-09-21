@@ -163,6 +163,14 @@ display: flex;
 
 } */
 
+
+.credit {
+  border: 6px orange dotted;
+  margin: 2px;
+  padding: 8px;
+
+}
+
 .contact {
   border: 6px orange dotted;
   

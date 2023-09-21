@@ -1,0 +1,202 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-padding-top: 130px;
+}
+
+body {
+
+  background-color: beige;
+}
+
+header {
+  background-color: beige;
+  border-bottom: rgb(226, 169, 64) 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  
+
+}
+
+header ul {
+  display: flex;
+  margin: 5px;
+  padding: 0;
+  list-style-type: none;
+}
+
+header li {
+  display: flex;
+  justify-content: space-between;
+  margin: 4px;
+  
+}
+
+header nav {
+  width: 25%;
+}
+
+header nav a {
+  text-decoration: none;
+  color: rgb(212, 175, 126);
+  font-family: 'Bonbon', cursive;
+  font-size: 21px;
+}
+
+header a:hover {
+  transform: scale(1.2);
+}
+
+header h1 {  
+  font-size: 44px;
+  color: lightcoral;
+  
+}
+
+.topic{
+
+  margin: 2px;
+}
+
+.myprofile {
+  width: 550px;
+  
+}
+
+h1,h2,h3 {
+  color: rgb(221, 148, 96);
+  font-family: 'Emilys Candy', cursive;
+}
+
+
+h3 {
+  text-align: center;
+  font-size: 24px;
+}
+
+
+p {
+  font-size: 18px;
+  color: rgb(175, 110, 36);
+  font-family: cursive;
+}
+
+.whois {
+  display: flex;
+}
+
+.music {
+  border: 6px orange dotted;
+  margin: 2px;
+  padding: 8px;
+}
+
+.music a {
+  text-decoration: none;
+}
+
+.music ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  text-align: center;
+  font-size: 23px;
+  color: rgb(175, 110, 36);
+  font-family: 'Rubik Gemstones', cursive;
+  padding: 0;
+}
+
+.music img {
+  width: 300px;
+}
+
+/* .music li{
+    display: flex;
+    justify-content: center;
+} */
+
+.music div img {
+  width: 48px;
+}
+
+.music div img:hover {
+  transform: scale(1.2);
+}
+
+.musicvideo {
+  border: 6px orange dotted;
+  margin: 2px;
+  padding: 8px;
+}
+
+.musicvideo a {
+  text-decoration: none;
+
+  
+}
+
+.musicvideo ul {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  list-style-type: none;
+  justify-items: center;
+  font-size: 23px;
+  color: rgb(175, 110, 36);
+  font-family: 'Rubik Gemstones', cursive;
+  margin: 3px;
+  padding: 0;
+}
+
+
+/* .musicvideo li{
+
+display: flex;
+
+} */
+
+.contact {
+  border: 6px orange dotted;
+  
+  margin: 2px;
+  padding: 8px;
+  text-align: center;
+  font-family: 'Emilys Candy', cursive;
+}
+
+
+input{
+
+  font-family: 'Emilys Candy', cursive;
+
+}
+
+
+.contact label {
+  font-size: 20px;
+  color: rgb(175, 110, 36);
+}
+
+textarea{
+width: 300px;
+height: 100px;
+background-color: rgb(255, 255, 225);
+}
+
+
+
+span{
+
+  font-family: 'Emilys Candy', cursive;
+  color: rgb(212, 175, 126);
+  
+}
+
+

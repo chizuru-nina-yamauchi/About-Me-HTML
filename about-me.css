@@ -185,7 +185,19 @@ display: flex;
   padding: 0;
 }
 
+.credit div {
 
+display: list-item;
+font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+
+
+
+
+
+
+
+}
 
 
 

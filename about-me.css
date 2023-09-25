@@ -81,12 +81,14 @@ p {
 
 .whois {
   display: flex;
+  margin-bottom: 30px;
 }
 
 .music {
   border: 6px orange dotted;
   margin: 2px;
   padding: 8px;
+  margin-bottom: 30px;
 }
 
 .music a {
@@ -125,6 +127,7 @@ p {
   border: 6px orange dotted;
   margin: 2px;
   padding: 8px;
+  margin-bottom: 30px;
 }
 
 .musicvideo a {
@@ -154,6 +157,8 @@ display: flex;
   border: 6px orange dotted;
   margin: 2px;
   padding: 8px;
+  margin-bottom: 30px;
+
 }
 
 .box {

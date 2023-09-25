@@ -1,4 +1,10 @@
-#This is my HTML project in Java course in September 2023
+#My portfolio project
 
-I uploaded many files with one git commit since I created the files back in July 2023.
-But you will see many git commit after the first one and many added files and improvement.
+##First of all
+
+This is a portfolio project and I have already worked on another portfolio project back in July 2023.
+Therefore, I uploaded many files with one git push at the beginning.
+But I added the new icons in the header, videos and photos in music/music vdieo sections, and credit section in addition to my old project.
+
+
+

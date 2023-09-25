@@ -177,6 +177,21 @@ display: flex;
   list-style-type: none;
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
+  
+}
+
+.box p {
+
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+
+}
+
+.box a {
+
+
+text-decoration: none;
+
 }
 
 .contact {

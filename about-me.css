@@ -95,7 +95,8 @@ p {
   text-decoration: none;
 }
 
-.music ul {
+
+.frame {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
@@ -106,8 +107,9 @@ p {
   padding: 0;
 }
 
-.music img {
+.container img {
   width: 300px;
+  margin: 15px;
 }
 
 /* .music li{
@@ -115,11 +117,14 @@ p {
     justify-content: center;
 } */
 
-.music div img {
+
+
+.icon img {
   width: 48px;
+  
 }
 
-.music div img:hover {
+.icon img:hover {
   transform: scale(1.2);
 }
 
@@ -160,6 +165,8 @@ display: flex;
   margin-bottom: 30px;
 
 }
+
+
 
 .box {
   display: flex;

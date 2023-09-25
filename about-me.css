@@ -118,7 +118,6 @@ p {
 } */
 
 
-
 .icon img {
   width: 48px;
   
@@ -139,18 +138,6 @@ p {
   text-decoration: none;
 }
 
-.musicvideo ul {
-  display: flex;
-  justify-content: space-between;
-  text-align: center;
-  list-style-type: none;
-  justify-items: center;
-  font-size: 23px;
-  color: rgb(175, 110, 36);
-  font-family: "Rubik Gemstones", cursive;
-  margin: 3px;
-  padding: 0;
-}
 
 /* .musicvideo li{
 

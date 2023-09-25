@@ -1,6 +1,6 @@
-#My portfolio project
+# My portfolio project
 
-##First of all
+## First of all
 
 This is a portfolio project and I have already worked on another portfolio project back in July 2023.
 Therefore, I uploaded many files with one git push at the beginning.

@@ -15,11 +15,6 @@ But I added the new icons in the header, videos and photos in music/music vdieo 
 ![The fourth screenshot of my website](portfolio4.png)
 ![The fifth screenshot of my website](portfolio5.png)
 
-<img src="portfolio1.png" width="200" height="100">
-<img src="portfolio2.png" width="200" height="100">
-<img src="portfolio3.png" width="200" height="100">
-<img src="portfolio4.png" width="200" height="100">
-<img src="portfolio5.png" width="200" height="100">
 
 
 

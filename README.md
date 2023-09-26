@@ -9,11 +9,11 @@ But I added the new icons in the header, videos and photos in music/music vdieo 
 ## The final result(How it looks)
 
 
-![The first screenshot of my website](portfolio1.png)
-![The second screenshot of my website](portfolio2.png)
-![The third screenshot of my website](portfolio3.png)
-![The fourth screenshot of my website](portfolio4.png)
-![The fifth screenshot of my website](portfolio5.png)
+![The first screenshot of my website](./Final-Work_Screenshot/portfolio1.png)
+![The second screenshot of my website](./Final-Work_Screenshot/portfolio2.png)
+![The third screenshot of my website](./Final-Work_Screenshot/portfolio3.png)
+![The fourth screenshot of my website](./Final-Work_Screenshot/portfolio4.png)
+![The fifth screenshot of my website](./Final-Work_Screenshot/portfolio5.png)
 
 
 

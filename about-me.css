@@ -202,9 +202,10 @@ font-size: 21px;
 }
 
 
-.collabo a:hover {
+.collabo li:hover {
 
-  transform: scale(1.2);
+  transform: scale(1.8);
+
 }
 
 

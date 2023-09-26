@@ -4,8 +4,8 @@
 
 This is my portfolio project to make my website about my music work.
 I have already worked on this project back in July 2023 when I haven't learned about Git.
-(You can visit [here](https://github.com/chizuru-nina-yamauchi/9-Final-Project)to check my another GitHub page for my older project and to compare.
-Therefore, I uploaded many files with one git push at the beginning and then I added new section, new icons, and organised my HTML this time.
+(You can visit [my older project on GitHub](https://github.com/chizuru-nina-yamauchi/9-Final-Project) to check my older project)
+To keep working on this project from that point, I uploaded many files with one git push at the beginning and then I added new section, new icons, and organised my HTML more this time.
 
 
 

@@ -2,13 +2,25 @@
   box-sizing: border-box;
 }
 
+
+
 html {
   scroll-padding-top: 130px;
 }
 
+
+
+
+
+
 body {
   background-color: beige;
 }
+
+
+
+
+
 
 header {
   background-color: beige;
@@ -121,7 +133,7 @@ p {
 
 .icon img {
   width: 48px;
-  
+
 }
 
 .icon img:hover {
@@ -133,7 +145,7 @@ p {
   margin: 2px;
   padding: 20px;
   margin-bottom: 30px;
-  
+
 }
 
 .musicvideo a {
@@ -177,7 +189,7 @@ display: flex;
   list-style-type: none;
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
-  
+
 }
 
 .box p {
@@ -193,10 +205,10 @@ display: flex;
 
 .box a {
 
-text-decoration: none;
-color: rgb(212, 175, 126);
-font-family: "Emilys Candy", cursive;
-font-size: 21px;
+  text-decoration: none;
+  color: rgb(212, 175, 126);
+  font-family: "Emilys Candy", cursive;
+  font-size: 21px;
 
 
 }

@@ -1,16 +1,14 @@
+
+/* Whole Website */
+
 * {
   box-sizing: border-box;
 }
 
 
-
 html {
-  scroll-padding-top: 130px;
+  scroll-padding-top: 160px;
 }
-
-
-
-
 
 
 body {
@@ -18,8 +16,29 @@ body {
 }
 
 
+h1,
+h2,
+h3 {
+  color: rgb(221, 148, 96);
+  font-family: "Emilys Candy", cursive;
+}
+
+h3 {
+  text-align: center;
+  font-size: 24px;
+}
 
 
+p {
+  font-size: 18px;
+  color: rgb(175, 110, 36);
+  font-family: cursive;
+}
+
+
+
+
+/* About Header */
 
 
 header {
@@ -65,6 +84,10 @@ header h1 {
   color: lightcoral;
 }
 
+
+
+/* Who is Nina Yamauchi */
+
 .topic {
   margin: 2px;
   padding: 20px;
@@ -74,28 +97,14 @@ header h1 {
   width: 550px;
 }
 
-h1,
-h2,
-h3 {
-  color: rgb(221, 148, 96);
-  font-family: "Emilys Candy", cursive;
-}
-
-h3 {
-  text-align: center;
-  font-size: 24px;
-}
-
-p {
-  font-size: 18px;
-  color: rgb(175, 110, 36);
-  font-family: cursive;
-}
 
 .whois {
   display: flex;
   margin-bottom: 30px;
 }
+
+/* Music Section */
+
 
 .music {
   border: 6px orange dotted;
@@ -125,12 +134,6 @@ p {
   margin: 15px;
 }
 
-/* .music li{
-    display: flex;
-    justify-content: center;
-} */
-
-
 .icon img {
   width: 48px;
 
@@ -139,6 +142,11 @@ p {
 .icon img:hover {
   transform: scale(1.2);
 }
+
+
+
+
+/* Music Video Section */
 
 .musicvideo {
   border: 6px orange dotted;
@@ -153,11 +161,9 @@ p {
 }
 
 
-/* .musicvideo li{
 
-display: flex;
 
-} */
+/* Credit Section */
 
 .credit {
   border: 6px orange dotted;
@@ -201,15 +207,12 @@ display: flex;
 
 
 
-
-
 .box a {
 
   text-decoration: none;
   color: rgb(212, 175, 126);
   font-family: "Emilys Candy", cursive;
   font-size: 21px;
-
 
 }
 
@@ -221,7 +224,7 @@ display: flex;
 }
 
 
-
+/* Contact Section */
 
 
 .contact {
@@ -247,6 +250,9 @@ textarea {
   height: 100px;
   background-color: rgb(255, 255, 225);
 }
+
+
+/* Copyright Section */
 
 span {
   font-family: "Emilys Candy", cursive;

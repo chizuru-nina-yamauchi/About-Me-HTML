@@ -2,7 +2,7 @@
 
 ## First of all
 
-I still have to learn about responsiveness and more about HTML/CSS and this webosite is still not compatible for some screens and devices.
+I still have to learn about responsiveness and more about HTML/CSS and this website is still not compatible for some screens and devices.
 This is my portfolio project to make my website about my music work.
 I have already started to work on this project back in July 2023 when I haven't learned about Git.
 (You can visit [my older project on GitHub](https://github.com/chizuru-nina-yamauchi/9-Final-Project) to check my older project)

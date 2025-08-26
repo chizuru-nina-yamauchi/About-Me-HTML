@@ -52,9 +52,7 @@ header {
   top: 0;
 }
 
-header a{
-  text-decoration: none;
-}
+
 
 header ul {
   display: flex;
@@ -342,6 +340,7 @@ span {
 
 
 }
+
 
 
 

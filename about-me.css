@@ -50,6 +50,9 @@ header {
   align-items: center;
   position: sticky;
   top: 0;
+}
+
+header a{
   text-decoration: none;
 }
 
@@ -339,6 +342,7 @@ span {
 
 
 }
+
 
 
 

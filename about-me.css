@@ -50,6 +50,7 @@ header {
   align-items: center;
   position: sticky;
   top: 0;
+  outline: none
 }
 
 header ul {
@@ -337,3 +338,4 @@ span {
 
 
 }
+

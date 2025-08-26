@@ -50,7 +50,6 @@ header {
   align-items: center;
   position: sticky;
   top: 0;
-  list-style-type: none;
 }
 
 header ul {
@@ -80,6 +79,9 @@ header nav a {
 
 header a:hover {
   transform: scale(1.2);
+}
+header a:focus{
+outline: none;
 }
 
 header h1 {
@@ -338,5 +340,6 @@ span {
 
 
 }
+
 
 
